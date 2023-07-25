@@ -34,7 +34,7 @@ JavaScript for interactivity and functionality 🧪🔧
 Getting Started 🚀
 
 ## Contribution Guidelines 🤝
-We welcome contributions to make Emojipedia even more fun and informative! If you would like to contribute, please follow these steps:
+We welcome contributions to make Emojipedia even more fun and informative! If you would like to contribute.
 
 ## Fork the repository to your own GitHub account.
 Create a new branch from the main branch.
