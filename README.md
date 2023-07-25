@@ -29,28 +29,6 @@ React.js for building the frontend 🚀🌐
 HTML and CSS for styling and layout 🎨🖌️
 JavaScript for interactivity and functionality 🧪🔧
 Getting Started 🚀
-To explore Emojipedia, follow these simple steps:
-
- Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/nehalohani04/emojipedia.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd emojipedia
-Install the necessary dependencies:
-
-Copy code
-npm install
-Start the development server:
-
-sql
-Copy code
-npm start
-Open your web browser and visit: http://localhost:3000
 
 ## Contribution Guidelines 🤝
 We welcome contributions to make Emojipedia even more fun and informative! If you would like to contribute, please follow these steps:
