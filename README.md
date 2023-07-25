@@ -14,12 +14,15 @@ Share your favorite emojis on social media 📤🌐
 
 ## Images 😄🌈🎉
 
+![Screenshot (8)](https://github.com/nehalohani04/emojipedia/assets/117189607/e0c26224-256a-45ad-933f-fe3321381dc7)
 
-![Screenshot (5)](https://github.com/nehalohani04/emojipedia/assets/117189607/43f77a66-4f58-4c4a-8372-1335c0331cbb)
 
-![Screenshot (6)](https://github.com/nehalohani04/emojipedia/assets/117189607/c0886789-e530-40cf-a2ad-9c5b1c6011e4)
 
-![Screenshot (7)](https://github.com/nehalohani04/emojipedia/assets/117189607/f2fa5901-f53f-45cd-882d-b71152d9ed2d)
+![Screenshot (9)](https://github.com/nehalohani04/emojipedia/assets/117189607/bace0b02-3049-4620-b8b1-d5fc707eeae4)
+
+
+![Screenshot (13)](https://github.com/nehalohani04/emojipedia/assets/117189607/16daf1b1-517e-487f-8471-8eefe28daeea)
+
 
 
 
